@@ -1,4 +1,4 @@
-export const metadata = {
+import '../styles/globals.css';
   title: "TLM Restoration | Restoring Properties. Restoring Peace of Mind.",
   description: "24/7 Emergency restoration services across Greater Melbourne and Victoria.",
 };
